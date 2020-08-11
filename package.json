@@ -1,0 +1,12 @@
+{
+  "name": "dida",
+  "version": "1.0.0",
+  "description": "滴答清单",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lxx",
+  "license": "ISC"
+}
